@@ -2880,3 +2880,33 @@ org.eclipse.core.runtime.CoreException: Launch configuration Application referen
 2022-09-29 13:38:23,090 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
 2022-09-29 13:41:48,049 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-09-29 13:41:48,050 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 13:41:48,054 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2022-09-29 13:49:55,473 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 13:49:55,474 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 13:49:55,478 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2022-09-29 13:51:15,517 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 13:51:15,518 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 13:51:15,521 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2022-09-29 13:56:32,222 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 13:56:32,223 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 13:56:32,228 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2022-09-29 14:07:03,584 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 14:07:03,585 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 14:07:03,591 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2022-09-29 14:08:22,148 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 14:08:22,148 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 14:08:22,152 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2022-09-29 14:12:01,003 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 14:12:01,004 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 14:12:01,008 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2022-09-29 14:15:41,141 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 14:15:41,141 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 14:15:41,145 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2022-09-29 14:17:16,797 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 14:17:16,798 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 14:17:16,802 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2022-09-29 14:20:25,824 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 14:20:25,825 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-29 14:20:25,831 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2022-09-29 14:21:41,585 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-29 14:21:41,586 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
