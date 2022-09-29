@@ -67,7 +67,7 @@ public class GreetingsController {
     @ResponseBody
     public ResponseEntity<Usuario> salvar(@RequestBody Usuario usuario) {
     	Usuario user = usuarioRepository.save(usuario);
-    	
+    	System.out.println("Salvando...");
     	return new ResponseEntity<Usuario>(user, HttpStatus.CREATED);
     }
     
@@ -92,11 +92,11 @@ public class GreetingsController {
     	return new ResponseEntity<String>("User deletado com sucesso", HttpStatus.OK);
     }
     
-    @GetMapping(value = "buscaruserid")
+    @GetMapping(value = "buscarUserID")
     @ResponseBody
     public ResponseEntity<Usuario> buscarUserId(@RequestParam(name = "idUser") Long idUser) {
     	Usuario usuario = usuarioRepository.findById(idUser).get();
-    	
+    	System.out.println("Buscando usuário por ID...");
     	return new ResponseEntity<Usuario>(usuario, HttpStatus.OK);
     }
     
@@ -104,7 +104,7 @@ public class GreetingsController {
     @ResponseBody
     public ResponseEntity<List<Usuario>> buscarPorNome(@RequestParam(name = "name") String name) {
     	List<Usuario> usuario = usuarioRepository.buscarPorNome(name.trim().toUpperCase());
-    	
+    	System.out.println("Buscando usuário por nome...");
     	return new ResponseEntity<List<Usuario>>(usuario, HttpStatus.OK);
     }
 }
